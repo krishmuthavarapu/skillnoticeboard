@@ -1,0 +1,33 @@
+[03-Jul-2019 15:27:31 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ibpstcc2/public_html/skillmonks.com/welcome/course_search.php on line 90
+[04-Jul-2019 10:09:54 Etc/GMT] PHP Notice:  Undefined index: search in /home/ibpstcc2/public_html/skillmonks.com/welcome/course_search.php on line 81
+[04-Jul-2019 13:05:53 Etc/GMT] PHP Notice:  Undefined index: search in /home/ibpstcc2/public_html/skillmonks.com/welcome/course_search.php on line 81
+[04-Jul-2019 13:06:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mysqltime' (T_VARIABLE) in /home/ibpstcc2/public_html/skillmonks.com/welcome/code_stu.php on line 11
+[04-Jul-2019 13:06:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mysqltime' (T_VARIABLE) in /home/ibpstcc2/public_html/skillmonks.com/welcome/code_stu.php on line 11
+[04-Jul-2019 13:06:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mysqltime' (T_VARIABLE) in /home/ibpstcc2/public_html/skillmonks.com/welcome/code_stu.php on line 11
+[04-Jul-2019 13:06:20 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mysqltime' (T_VARIABLE) in /home/ibpstcc2/public_html/skillmonks.com/welcome/code_stu.php on line 11
+[04-Jul-2019 13:06:24 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mysqltime' (T_VARIABLE) in /home/ibpstcc2/public_html/skillmonks.com/welcome/code_stu.php on line 11
+[04-Jul-2019 13:06:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mysqltime' (T_VARIABLE) in /home/ibpstcc2/public_html/skillmonks.com/welcome/code_stu.php on line 11
+[04-Jul-2019 13:06:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mysqltime' (T_VARIABLE) in /home/ibpstcc2/public_html/skillmonks.com/welcome/code_stu.php on line 11
+[04-Jul-2019 13:06:58 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mysqltime' (T_VARIABLE) in /home/ibpstcc2/public_html/skillmonks.com/welcome/code_stu.php on line 11
+[04-Jul-2019 13:07:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mysqltime' (T_VARIABLE) in /home/ibpstcc2/public_html/skillmonks.com/welcome/code_stu.php on line 11
+[04-Jul-2019 13:07:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mysqltime' (T_VARIABLE) in /home/ibpstcc2/public_html/skillmonks.com/welcome/code_stu.php on line 11
+[04-Jul-2019 13:07:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '$mysqltime' (T_VARIABLE) in /home/ibpstcc2/public_html/skillmonks.com/welcome/code_stu.php on line 11
+[04-Jul-2019 13:16:43 Etc/GMT] PHP Notice:  Undefined index: search in /home/ibpstcc2/public_html/skillmonks.com/welcome/course_search.php on line 81
+[07-Jul-2019 05:02:32 Etc/GMT] PHP Notice:  Undefined index: search in /home/ibpstcc2/public_html/skillmonks.com/welcome/course_search.php on line 81
+[08-Jul-2019 10:57:34 Etc/GMT] PHP Notice:  Undefined index: search in /home/ibpstcc2/public_html/skillmonks.com/welcome/course_search.php on line 81
+[08-Jul-2019 10:58:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ibpstcc2/public_html/skillmonks.com/welcome/course_view.php on line 97
+[08-Jul-2019 10:58:34 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ibpstcc2/public_html/skillmonks.com/welcome/course_view.php on line 199
+[08-Jul-2019 11:17:59 Etc/GMT] PHP Notice:  Undefined index: search in /home/ibpstcc2/public_html/skillmonks.com/welcome/course_search.php on line 81
+[23-Jul-2019 05:42:04 Etc/GMT] PHP Notice:  Undefined index: city in /home/ibpstcc2/public_html/skillmonks.com/welcome/tab_search_category.php on line 17
+[23-Jul-2019 05:42:04 Etc/GMT] PHP Notice:  Undefined index: category in /home/ibpstcc2/public_html/skillmonks.com/welcome/tab_search_category.php on line 18
+[25-Jul-2019 05:23:22 Etc/GMT] PHP Notice:  Undefined index: city in /home/ibpstcc2/public_html/skillmonks.com/welcome/tab_search_category.php on line 17
+[25-Jul-2019 05:23:22 Etc/GMT] PHP Notice:  Undefined index: category in /home/ibpstcc2/public_html/skillmonks.com/welcome/tab_search_category.php on line 18
+[25-Jul-2019 05:23:23 Etc/GMT] PHP Notice:  Undefined index: city in /home/ibpstcc2/public_html/skillmonks.com/welcome/tab_search_category.php on line 17
+[25-Jul-2019 05:23:23 Etc/GMT] PHP Notice:  Undefined index: category in /home/ibpstcc2/public_html/skillmonks.com/welcome/tab_search_category.php on line 18
+[25-Jul-2019 05:23:23 Etc/GMT] PHP Notice:  Undefined index: city in /home/ibpstcc2/public_html/skillmonks.com/welcome/tab_search_category.php on line 17
+[25-Jul-2019 05:23:23 Etc/GMT] PHP Notice:  Undefined index: category in /home/ibpstcc2/public_html/skillmonks.com/welcome/tab_search_category.php on line 18
+[29-Jul-2019 01:23:19 Etc/GMT] PHP Notice:  Undefined index: city in /home/ibpstcc2/public_html/skillmonks.com/welcome/tab_search_category.php on line 17
+[29-Jul-2019 01:23:19 Etc/GMT] PHP Notice:  Undefined index: category in /home/ibpstcc2/public_html/skillmonks.com/welcome/tab_search_category.php on line 18
+[16-Aug-2019 06:28:18 Etc/GMT] PHP Notice:  Undefined index: search in /home/ibpstcc2/public_html/skillmonks.com/course_search.php on line 81
+[27-Sep-2019 17:31:44 Etc/GMT] PHP Notice:  Undefined index: search in /home/ibpstcc2/public_html/skillmonks.com/course_search.php on line 81
+[28-Sep-2019 09:14:49 Etc/GMT] PHP Notice:  Undefined index: search in /home/ibpstcc2/public_html/skillmonks.com/course_search.php on line 81
