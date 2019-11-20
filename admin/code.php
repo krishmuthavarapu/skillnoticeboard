@@ -156,13 +156,14 @@ if(isset($_POST['update_institute']))
     $course = $_POST['edit_course'];
     $category = $_POST['edit_category'];
     $location = $_POST['edit_location'];
+    $mode = $_POST['edit_mode'];
     $city = $_POST['edit_city'];
     $batch = $_POST['edit_batch'];
     $demo = $_POST['edit_demo'];
     $email = $_POST['edit_email'];
     $number = $_POST['edit_number'];
 
-    $query = "UPDATE institute_data SET institute = '$institute', course = '$course', category = '$category',location ='$location', city ='$city', batch_date = '$batch', demo_date = '$demo', email = '$email', number = '$number' WHERE id='$id'";
+    $query = "UPDATE institute_data SET institute = '$institute', course = '$course', category = '$category',location ='$location', mode = '$mode', city ='$city', batch_date = '$batch', demo_date = '$demo', email = '$email', number = '$number' WHERE id='$id'";
     $query_run = mysqli_query($connection,$query);
 
     if($query_run){

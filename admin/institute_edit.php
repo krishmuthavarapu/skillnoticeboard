@@ -34,6 +34,9 @@ include('includes/header.php'); ?>
                         <input type="text" class="form-control form-control-user" value="<?php echo $row['category']?>" name="edit_category" placeholder="category ">
                     </div>
                     <div class="form-group">
+                        <input type="text" class="form-control form-control-user" value="<?php echo $row['mode']?>" name="edit_mode" placeholder="Mode ">
+                    </div>
+                    <div class="form-group">
                         <input type="text" class="form-control form-control-user" value="<?php echo $row['location']?>" name="edit_location" placeholder="Location">
                     </div>
                     <div class="form-group">

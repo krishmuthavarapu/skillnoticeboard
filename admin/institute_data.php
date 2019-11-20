@@ -14,6 +14,7 @@ include('includes/header.php'); ?>
               Declared Batches
             </h2>
         </div>
+        <div class="col-12">
         <?php
         if (isset($_SESSION['success']) && $_SESSION['success'] != '') {
             echo '<h4>' . $_SESSION['success'] . '</h4>';
@@ -24,6 +25,7 @@ include('includes/header.php'); ?>
             unset($_SESSION['status']);
         }
         ?>
+        </div>
         <?php
         $query = "SELECT * FROM institute_data";
         $query_run = mysqli_query($connection, $query);

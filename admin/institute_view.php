@@ -28,6 +28,7 @@ include('includes/header.php'); ?>
     <li class="list-group-item">Institute : <span class="font-weight-bold"><?php echo $row['institute']?></span></li>
     <li class="list-group-item">course : <span class="font-weight-bold"><?php echo $row['course']?></span></li>
     <li class="list-group-item">category : <span class="font-weight-bold"><?php echo $row['category']?></span></li>
+    <li class="list-group-item">Mode : <span class="font-weight-bold"><?php echo $row['mode']?></span></li>
     <li class="list-group-item">Location : <span class="font-weight-bold"><?php echo $row['location']?></span></li>
     <li class="list-group-item">City : <span class="font-weight-bold"><?php echo $row['city']?></span></li>
     <li class="list-group-item">Batch Date : <span class="font-weight-bold"><?php echo $row['batch_date']?></span></li>
